@@ -2,7 +2,7 @@
 
 # Welcome to My GitHub Profile!
 
-I'm **[Your Name]**,  
+I'm **Nayan Makwana**,  
 an AI researcher, software engineer, and full-time learner who loves solving real-world problems with technology.
 
 ---
@@ -12,8 +12,7 @@ an AI researcher, software engineer, and full-time learner who loves solving rea
 - 💡 Passionate about **AI**, **Machine Learning**, and **Software Architecture**.
 - 🤖 Currently building AI-powered tools like **recipe generators**, **playlist recommenders**, and **predictive models** for health and finance.
 - 🧩 Working with **LLMs** (GPT, Google GenAI, LangChain) and integrating them into practical applications.
-- 🏢 Experience as a **TA** for Software Design and AI.
-- 🏙️ Developed systems for **Smart Cities**, **CMS APIs**, and **Environmental Risk Analysis**.
+- 🏢 Experience as a **TA** for Refactoring and Software Design.
 - 🌱 Currently exploring:
     - AI Agents for productivity
     - Vector Databases (Pinecone, ChromaDB)
@@ -32,7 +31,6 @@ an AI researcher, software engineer, and full-time learner who loves solving rea
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
-<img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
 <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
 </p>
 
@@ -72,7 +70,6 @@ an AI researcher, software engineer, and full-time learner who loves solving rea
 #### LLMs & Vector Databases
 <p align="left">
 <img src="https://img.shields.io/badge/GPT-005571?style=for-the-badge&logo=openai&logoColor=white" />
-<img src="https://img.shields.io/badge/BERT-1F425F?style=for-the-badge&logo=google&logoColor=white" />
 <img src="https://img.shields.io/badge/LLaMA-FF4500?style=for-the-badge&logo=meta&logoColor=white" />
 <img src="https://img.shields.io/badge/Pinecone-02A2FF?style=for-the-badge&logo=pinecone&logoColor=white" />
 <img src="https://img.shields.io/badge/ChromaDB-FF8C00?style=for-the-badge&logo=chromadb&logoColor=white" />
